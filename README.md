@@ -52,7 +52,7 @@ Stack Overflow Developer Survey 2025
 ![Paises](Capturas/Analisis%20por%20pais.png)
 
 ### Análisis por Rol y Tecnología
-![Roles](cAPTURAS/Analisis%20por%20rol.png)
+![Roles](Capturas/Analisis%20por%20rol.png)
 
 ### Factores que impactan el salario
 ![Factores](Capturas/Factores%20de%20impacto.png)
