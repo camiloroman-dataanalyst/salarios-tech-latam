@@ -58,6 +58,6 @@ Stack Overflow Developer Survey 2025
 ![Factores](Capturas/Factores%20de%20impacto.png)
 
 ## 👤 Autor
-Camilo Román Beodya  
+Camilo Román Bedoya  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilo-rom%C3%A1n-6b9828404/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/camiloroman-dataanalyst)
